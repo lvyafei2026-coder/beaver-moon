@@ -1,0 +1,10 @@
+{
+  "name": "beaver-moon",
+  "private": true,
+  "description": "beaver moon",
+  "scripts": {
+    "build": "echo \"Static site, no build step\"",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {}
+}
